@@ -21,4 +21,8 @@ dev_dependencies:
 flutter:
   uses-material-design: true
   assets:
-    - images/lake.jpg
+    - images/catedral.jpg
+    - images/catedral2.jpg
+    - images/catedral3.jpg
+    - images/catedral4.jpg
+    - images/catedral5.jpg
